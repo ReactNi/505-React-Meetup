@@ -15,7 +15,6 @@ The chat app we started building on 8/29/18 is linked [here](https://github.com/
 * [Fullstack React](https://www.fullstackreact.com/)
 * [Fullstack React Native](https://www.fullstackreact.com/react-native/)
 
-## :boom: Organizers :boom:
-* Elisa Valdez
-* Samantha Andrews
-* Sidney Chen
+Licencia y atribución
+Basado en: https://github.com/samanthaandrews/505-React-Meetup
+
